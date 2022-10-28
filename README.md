@@ -2,4 +2,4 @@
 - 👀 We interested in building a global economy using cryptocurrency, reducing risks, and waving into web3 decentralization.
 - 🌱 We are currently working on the Proof of Participation (PoP) consensus.
 - 💞️ We looking for collaborator all over the globe...
-- 📫 Visit: https://globalfinance.one
+- 📫 Visit: https://globalfinance.one and [Gitbook](https://globalfinance-1.gitbook.io/gfipedia/)
